@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Courier New', Courier, monospace;
     margin-top: 100px;
@@ -111,6 +117,7 @@ input[type='submit'] {
   color: white;
   margin-bottom: 7px;
 } 
+
 
 
 
