@@ -118,7 +118,14 @@ input[type='submit'] {
   margin-bottom: 7px;
 } 
 
+.summary img {
+    float: right;
+    /* transition: transform; */
+}
 
+.summary img:hover {
+    transform: scale(1.3);
+}
 
 
 
