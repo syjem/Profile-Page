@@ -19,6 +19,7 @@ body {
     background: rgb(113, 224, 215);
     transition: all 0.3s ease-in-out;
     box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.3);
+    float: left;
 }
 
 .container:hover {
