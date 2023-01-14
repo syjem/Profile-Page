@@ -158,7 +158,24 @@ body {
     justify-content: center;
 }
 
+.nav {
+    width: 100%;
+    display: flex;
+}
 
+.nav ul {
+    list-style: none;
+    display: flex;
+    border: 1px solid red;
+}
+
+.nav ul li {
+    padding: 10px;
+}
+
+.nav ul li a {
+    text-decoration: none;
+}
 
 
 
