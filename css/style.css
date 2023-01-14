@@ -149,6 +149,16 @@ body {
 }
 
 
+/* Main */
+
+.main {
+    width: 50%;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+}
+
+
 
 
 
