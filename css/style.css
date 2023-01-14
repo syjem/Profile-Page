@@ -161,16 +161,21 @@ body {
 .nav {
     width: 100%;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .nav ul {
     list-style: none;
     display: flex;
+    justify-content: center;
     border: 1px solid red;
 }
 
 .nav ul li {
+    flex: 1;
     padding: 10px;
+    border: 1px solid black;
 }
 
 .nav ul li a {
